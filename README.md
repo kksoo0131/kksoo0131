@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kksoo0131)
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jimili0820)](https://solved.ac/profile/jimili0820)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmili0820)](https://solved.ac/profile/jmili0820)
 
