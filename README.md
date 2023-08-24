@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [kksoo0131`s GitHub stats](https://github-readme-stats.vercel.app/api?username=kksoo0131&show_icons=true&theme=cobalt)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jimili0820})](https://solved.ac/{jimili0820})
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jimili0820)](https://solved.ac/jimili0820)
