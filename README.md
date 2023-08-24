@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **kksoo0131/kksoo0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +16,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kksoo0131&show_icons=true&theme=cobalt)
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jimili0820)](https://solved.ac/jimili0820)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kksoo0131)
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jimili0820)](https://solved.ac/profile/jimili0820)
+
