@@ -1,18 +1,13 @@
-### Hi there 👋
-<!--
-**kksoo0131/kksoo0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://kksoo0131.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat&logo=jekyll&logoColor=white"/></a>
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### main
+<img src="https://img.shields.io/badge/Csharp-239120?style=flat&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
+
+### used
+<img src="https://img.shields.io/badge/Cpp-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kksoo0131&show_icons=true&theme=cobalt)
 
