@@ -3,7 +3,7 @@
 ### 메인 기술 스택
 <img src="https://img.shields.io/badge/Csharp-239120?style=flat&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 
-### 사용해본 기술 스택
+### 공부 해본적 있음..
 <img src="https://img.shields.io/badge/Cpp-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
 
